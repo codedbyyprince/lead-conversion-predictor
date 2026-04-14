@@ -109,7 +109,7 @@ Test_.ipynb              → final evaluation on held-out test set
 
 ## Tech Stack
 
-- **Python 3.13**
+- **Python**
 - **pandas / NumPy** — data manipulation
 - **scikit-learn** — preprocessing pipelines, Logistic Regression, Random Forest, cross-validation, metrics
 - **XGBoost** — gradient boosting classifier
